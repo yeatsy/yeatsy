@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m passionate about creating innovative solutio
 
 ### 🔭 I’m currently working on:
 - **[Islet](https://isletdiabetes.com)**: A reflective glucose tracking app designed for athletes and diabetics. It helps users understand their glucose trends, providing insights rather than immediate actions.
-- **Dissertation Project: Program Synthesis**: Detecting patterns in blood glucose, insulin, sleep, heart rate, and other data, aiming to improve personal health insights.
+- **Dissertation Project - Program Synthesis**: Detecting patterns in blood glucose, insulin, sleep, heart rate, and other data, aiming to improve personal health insights.
   
 ### 🌱 I’m currently learning:
 - SwiftUI for data visualization.
